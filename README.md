@@ -1,0 +1,1 @@
+MRI-Fingerprinting-Demo: Baseline C++ spatial phantom generator built using OpenCV. Build system configured via CMake for MSYS2 UCRT64 environments.
